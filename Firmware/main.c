@@ -1,7 +1,7 @@
 /*
  * File:   main.c
  * Author: Fozlea Rabbi
- * Blog Address: www.piclab-bd.blogspot.com
+ * Blog Address: www.microcontroller-lab.blogspot.com
  * Compiler: Hi-Tech PICC v9.83
  * Created on March 4, 2017, 10:52 AM
  */
